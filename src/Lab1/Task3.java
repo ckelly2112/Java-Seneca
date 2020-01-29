@@ -1,3 +1,4 @@
+package Lab1;
 /*
  * Lab: 1
  * Student Name: Christopher Kelly
